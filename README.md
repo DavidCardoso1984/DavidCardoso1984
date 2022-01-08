@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como analista de planejamento de PPCP na WEG Paumar
 - 🌱 Estudando Python, R e asssuntos relacionados a ciência de dados e inteligência artificial
-- 📚 Aluno do curso de Ciência de dados e inteligencia artificial da UniDomBosco (3º Período)
+- 📚 Aluno do curso de Ciência de dados e inteligencia artificial (bacharelado) da UniDomBosco (3º Período)
 - 📓 Aluno do curso de Sistemas de informação (bacharelado) da Estácio (1º Período)
 - 😄 Pronome: ele/dele
 - ⚡ Fato engraçado: Sou um engenheiro químico que trabalhou toda a vida profissional no PPCP e agora estou me aperfeiçoando em programação, ciência de dados e inteligencia artificial
