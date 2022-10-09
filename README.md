@@ -1,11 +1,11 @@
 ### Oi! Eu sou o David André Cardoso! 👋
 
-- 🔭 Hoje trabalho como analista de planejamento de PPCP na WEG Paumar
-- 🌱 Estudando Python, R e asssuntos relacionados a ciência de dados e inteligência artificial
-- 📚 Aluno do curso de Ciência de dados e inteligencia artificial (bacharelado) da UniDomBosco (3º Período)
-- 📓 Aluno do curso de Sistemas de informação (bacharelado) da Estácio (1º Período)
+- 🔭 Hoje trabalho como analista de suporte de SAP PP, PM e QM.
+- 🌱 Estudando Python, R, asssuntos relacionados a ciência de dados e inteligência artificial, SAP PP, SAP PM, SAP QM e ABAP.
+- 📚 Aluno do curso de Ciência de dados e inteligencia artificial (bacharelado) da UniDomBosco (4º Período - 2º ano)
+- 📓 Aluno do curso de Sistemas de informação (bacharelado) da Estácio (1º Período - 1º ano)
 - 😄 Pronome: ele/dele
-- ⚡ Fato engraçado: Sou um engenheiro químico que trabalhou toda a vida profissional no PPCP e agora estou me aperfeiçoando em programação, ciência de dados e inteligencia artificial
+- ⚡ Fato engraçado: Sou um engenheiro químico que trabalhou toda a vida profissional no PPCP e agora estou me aperfeiçoando em programação, ciência de dados e inteligencia artificial e SAP.
 
 ##
 
